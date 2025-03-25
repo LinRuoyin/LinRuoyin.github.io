@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Baking powder",
+    "price": "2.5 DKK / 100g"
+  },
+  {
+    "name": "Bottle of red wine",
+    "price": "5.0 DKK / 1 bottle"
+  },
+  {
+    "name": "Butter",
+    "price": "7.5 DKK / 100g"
+  },
+  {
+    "name": "Capers",
+    "price": "10.0 DKK / 1 tbsp"
+  },
+  {
+    "name": "Cardamom",
+    "price": "12.5 DKK / 1 tsp"
+  },
+  {
+    "name": "Cinnamon sticks",
+    "price": "15.0 DKK / 1 pinch"
+  },
+  {
+    "name": "Cornstarch",
+    "price": "17.5 DKK / 1 slice"
+  },
+  {
+    "name": "Egg",
+    "price": "20.0 DKK / 1 cup"
+  },
+  {
+    "name": "Eggs",
+    "price": "22.5 DKK / 1 bottle"
+  },
+  {
+    "name": "Flour",
+    "price": "25.0 DKK / 50g"
+  },
+  {
+    "name": "Ground pork",
+    "price": "27.5 DKK / 100g"
+  },
+  {
+    "name": "Heavy cream",
+    "price": "30.0 DKK / 1 piece"
+  },
+  {
+    "name": "Herring",
+    "price": "32.5 DKK / 250ml"
+  },
+  {
+    "name": "Milk",
+    "price": "35.0 DKK / 1 tbsp"
+  },
+  {
+    "name": "Onion",
+    "price": "37.5 DKK / 1 tsp"
+  },
+  {
+    "name": "Orange zest",
+    "price": "40.0 DKK / 1 pinch"
+  },
+  {
+    "name": "Pepper",
+    "price": "42.5 DKK / 1 slice"
+  },
+  {
+    "name": "Raisins",
+    "price": "45.0 DKK / 1 cup"
+  },
+  {
+    "name": "Red currants",
+    "price": "47.5 DKK / 1 bottle"
+  },
+  {
+    "name": "Red onion",
+    "price": "50.0 DKK / 50g"
+  },
+  {
+    "name": "Rye bread",
+    "price": "52.5 DKK / 100g"
+  },
+  {
+    "name": "Salt",
+    "price": "55.0 DKK / 1 piece"
+  },
+  {
+    "name": "Slipped Almonds",
+    "price": "57.5 DKK / 250ml"
+  },
+  {
+    "name": "Spice",
+    "price": "60.0 DKK / 1 tbsp"
+  },
+  {
+    "name": "Strawberries",
+    "price": "62.5 DKK / 1 tsp"
+  },
+  {
+    "name": "Sugar",
+    "price": "65.0 DKK / 1 pinch"
+  },
+  {
+    "name": "Water",
+    "price": "67.5 DKK / 1 slice"
+  },
+  {
+    "name": "Whole cloves",
+    "price": "70.0 DKK / 1 cup"
+  }
+]
