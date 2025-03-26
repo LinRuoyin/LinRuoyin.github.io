@@ -5,7 +5,7 @@
   },
   {
     "name": "Bottle of red wine",
-    "price": "5.0 DKK / 1 bottle"
+    "price": "45.0 DKK / 1 bottle"
   },
   {
     "name": "Butter",
@@ -17,98 +17,142 @@
   },
   {
     "name": "Cardamom",
-    "price": "12.5 DKK / 1 tsp"
+    "price": "12.5 DKK / 10g"
   },
   {
     "name": "Cinnamon sticks",
-    "price": "15.0 DKK / 1 pinch"
+    "price": "15.0 DKK / 2 sticks"
   },
   {
     "name": "Cornstarch",
-    "price": "17.5 DKK / 1 slice"
+    "price": "5.0 DKK / 100g"
   },
   {
     "name": "Egg",
-    "price": "20.0 DKK / 1 cup"
+    "price": "3.0 DKK / 1 piece"
   },
   {
     "name": "Eggs",
-    "price": "22.5 DKK / 1 bottle"
+    "price": "3.0 DKK / 1 piece"
   },
   {
     "name": "Flour",
-    "price": "25.0 DKK / 50g"
+    "price": "4.5 DKK / 100g"
   },
   {
     "name": "Ground pork",
-    "price": "27.5 DKK / 100g"
+    "price": "10.0 DKK / 100g"
   },
   {
     "name": "Heavy cream",
-    "price": "30.0 DKK / 1 piece"
+    "price": "8.0 DKK / 100ml"
   },
   {
     "name": "Herring",
-    "price": "32.5 DKK / 250ml"
+    "price": "12.0 DKK / 100g"
   },
   {
     "name": "Milk",
-    "price": "35.0 DKK / 1 tbsp"
+    "price": "6.0 DKK / 250ml"
   },
   {
     "name": "Onion",
-    "price": "37.5 DKK / 1 tsp"
+    "price": "2.0 DKK / 1 piece"
   },
   {
     "name": "Orange zest",
-    "price": "40.0 DKK / 1 pinch"
+    "price": "5.0 DKK / 1 orange"
   },
   {
     "name": "Pepper",
-    "price": "42.5 DKK / 1 slice"
+    "price": "3.5 DKK / 10g"
   },
   {
     "name": "Raisins",
-    "price": "45.0 DKK / 1 cup"
+    "price": "6.0 DKK / 100g"
   },
   {
     "name": "Red currants",
-    "price": "47.5 DKK / 1 bottle"
+    "price": "9.0 DKK / 100g"
   },
   {
     "name": "Red onion",
-    "price": "50.0 DKK / 50g"
+    "price": "2.5 DKK / 1 piece"
   },
   {
     "name": "Rye bread",
-    "price": "52.5 DKK / 100g"
+    "price": "5.0 DKK / 2 slices"
   },
   {
     "name": "Salt",
-    "price": "55.0 DKK / 1 piece"
+    "price": "1.5 DKK / 10g"
   },
   {
     "name": "Slipped Almonds",
-    "price": "57.5 DKK / 250ml"
+    "price": "8.0 DKK / 100g"
   },
   {
     "name": "Spice",
-    "price": "60.0 DKK / 1 tbsp"
+    "price": "4.0 DKK / 10g"
   },
   {
     "name": "Strawberries",
-    "price": "62.5 DKK / 1 tsp"
+    "price": "6.0 DKK / 100g"
   },
   {
     "name": "Sugar",
-    "price": "65.0 DKK / 1 pinch"
+    "price": "3.0 DKK / 100g"
   },
   {
     "name": "Water",
-    "price": "67.5 DKK / 1 slice"
+    "price": "0.1 DKK / 100ml"
   },
   {
     "name": "Whole cloves",
-    "price": "70.0 DKK / 1 cup"
+    "price": "7.0 DKK / 10g"
+  },
+  {
+    "name": "Vanilla extract",
+    "price": "10.0 DKK / 1 tsp"
+  },
+  {
+    "name": "Olive oil",
+    "price": "8.0 DKK / 15ml"
+  },
+  {
+    "name": "Tomato",
+    "price": "3.5 DKK / 1 piece"
+  },
+  {
+    "name": "Garlic",
+    "price": "1.0 DKK / 1 clove"
+  },
+  {
+    "name": "Cheese",
+    "price": "9.0 DKK / 50g"
+  },
+  {
+    "name": "Carrot",
+    "price": "2.0 DKK / 1 piece"
+  },
+  {
+    "name": "Broccoli",
+    "price": "5.0 DKK / 100g"
+  },
+  {
+    "name": "Potato",
+    "price": "1.8 DKK / 1 piece"
+  },
+  {
+    "name": "Lemon juice",
+    "price": "2.5 DKK / 1 tbsp"
+  },
+  {
+    "name": "Soy sauce",
+    "price": "3.5 DKK / 1 tbsp"
+  },
+  {
+    "name": "Cucumber",
+    "price": "2.5 DKK / 1 piece"
   }
 ]
